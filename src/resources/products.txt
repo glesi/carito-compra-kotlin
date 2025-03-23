@@ -1,0 +1,10 @@
+1,Laptop HP,Laptop HP Pavilion 15.6" i5 8GB RAM 512GB SSD,799.99,9
+2,Smartphone Samsung,Samsung Galaxy S21 128GB 6.2" Super AMOLED,699.99,15
+3,Auriculares Bluetooth,Auriculares inalámbricos con cancelación de ruido,79.99,19
+4,Tablet Apple,iPad 10.2" 64GB WiFi,329.99,8
+5,Smartwatch,Reloj inteligente con monitor de frecuencia cardíaca,149.99,12
+6,Cámara Digital,Cámara DSLR 24MP con lente 18-55mm,499.99,5
+7,Altavoz Bluetooth,Altavoz portátil resistente al agua,59.99,18
+8,Monitor,Monitor LED 24" Full HD,199.99,7
+9,Teclado Mecánico,Teclado gaming RGB con switches mecánicos,89.99,14
+10,Ratón Gaming,Ratón óptico de alta precisión para gaming,49.99,25
