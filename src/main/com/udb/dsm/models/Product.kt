@@ -7,6 +7,7 @@ data class Product(
     val price: Double,
     var stock: Int
 ) {
+    //Campos minimos que pedia el ejercicio.
     override fun toString(): String {
         return "ID: $id, Nombre: $name, Descripción: $description, Precio: $${price}, Disponibles: $stock"
     }

@@ -4,6 +4,8 @@ import main.com.udb.dsm.models.Product
 import main.com.udb.dsm.models.Invoice
 import main.com.udb.dsm.models.InvoiceItem
 
+/// Esta clase es el corazon y logica del carrito, aca se pueden ir agregando todas las compras
+
 class ShoppingCartService(private val productService: ProductService) {
     private val cart = mutableListOf<Pair<Product, Int>>()
 
